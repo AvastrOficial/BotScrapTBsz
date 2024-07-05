@@ -1,5 +1,7 @@
 # BotScrapTBsz
 > este un codigo echo en python para scrap datos publicos de un perfil de usuario de telegram utilizando la misma api get de telegram podemos optener datos o informacion
+<br></br>
+> By @AvaStrOficial / Version : 0.0.1
 ## como funciona?
 > tiene 3 comando personalizados :
 <br></br>
